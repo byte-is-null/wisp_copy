@@ -1,4 +1,6 @@
 import os
+os.system("shutdown")
+
 import nextcord
 from dashboard import keep_alive
 from nextcord.ext import commands, ipc
